@@ -1,4 +1,4 @@
-Projeto desenvolvido com base ensinamentos do curso do Sujeito Programador(Matheus Fraga)
+Projeto desenvolvido com base ensinamentos do curso do Professor Matheus Fraga
 
 ![Captura de tela 2025-01-01 182256](https://github.com/user-attachments/assets/c28d5355-095d-471c-ae9b-f944f968a3aa)
 
